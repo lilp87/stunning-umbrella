@@ -1,25 +1,91 @@
-# NBA 2K27 breakpoints (community data, collected 2026-10-08, patch 2.0)
+# NBA 2K27 breakpoints (collected 2026-10-08, patch v2.0)
 
 Tiers are Bronze / Silver / Gold / Hall of Fame. "+" = both required (AND), "or" = either.
-Badge thresholds were measured by community sites on the 2026-08-22 builder build.
-Where sources disagreed the stricter value is listed and the alternative noted.
+Badge thresholds: four trackers (2kmyplayer, 2kfilmroom, nba2klab, filmroom.gg) agree; measured on
+the 2026-08-22 builder build. Where sources disagreed the stricter value is listed and the
+alternative noted. Caps and budget readings come from the live lockercodes builder (2026-10-08).
 
 ## Builder mechanics
 
-- 53 badges (19 new, 6 cut vs 2K26's 40). 20 badge slots, filled with Badge Tokens.
-- Tokens come from discipline meters (in-game performance), Team Practice, Gatorade workouts,
-  Build Specialization (9 bonus tokens), Season and Crew rewards. Discipline tokens stay in
-  their discipline.
-- Token cost per tier varies by badge and frame (example: Ankle Assassin 3/5/6/7,
-  Strong Handle 2/4/5/6). The builder shows the live cost.
-- Synergy: 16 slots (12 × Max +1, 4 × Max +2). Fuse = boost for the whole game, no token
-  cost. Reaction = paired to a Fuse badge, triggers after N activations, uses a badge slot.
-  Legend tier is only reachable via Synergy boosts on a HoF badge.
+- 53 badges (19 new, 6 cut vs 2K26's 40). 20 badge slots, filled with Badge Tokens. Token and
+  slot totals use BASE ratings (cap breakers do not add tokens).
+- Default max tokens per discipline (Mike Wang): Finishing 24, Shooting 23, Playmaking 23,
+  Defense 22, Rebounding 15, Physicals 15. Tokens come from discipline meters, Team Practice,
+  Gatorade workouts, Build Specialization (9 flexible tokens), Season and Crew rewards.
+  Discipline tokens stay in their discipline.
+- Cumulative token cost B/S/G/HoF (nba2klab = filmroom.gg):
+  - 3/5/6/7: Deadeye, Limitless Range, Arc Cadence, Quick Trigger, Smooth Operator, Ankle Assassin,
+    Lightning Launch, Unpluckable, Challenger, Pick Dodger, Seatbelt, Posterizer, Layup Mixmaster,
+    Float Game, Flash.
+  - 2/4/5/6: Set and Fire, Static Middy, Handles for Days, Pace, Versatile Visionary, Glove,
+    Interceptor, Ankle Braces, Physical Finisher, Slippery Off-Ball, Work Horse, Strong Handle.
+  - 1/3/4/5: Dimer, Aerial Wizard, Off-Ball Pest, Immovable Enforcer, Pogo Stick, Mini Marksman,
+    Paint Prodigy, Ghost Stepper. (High-Flying Denier Bronze 1, Paint Patroller Bronze 3,
+    Bruiser Bronze 2, Sync Snatcher Bronze 1.)
+- Synergy: 16 slots (12 × Max +1, 4 × Max +2). Fuse = boost for the whole game and frees the
+  badge's tokens. Reaction = paired to a Fuse badge, triggers after N activations, uses a badge
+  slot. Legend only via Synergy. Season-reward Synergy expires at season end; Build Spec goal 10
+  (+2, Fuse must match the spec discipline), Crew 28/39 and REP Synergy are permanent.
 - Loadouts: 1 by default, up to 4 (REP, Challenges, Crews), switchable before a game.
-- Cap Breakers: max 5 per attribute, permanent, previewable in the builder.
+- Cap Breakers: 28 total (11 REP, 4 Crew, 2 Build Spec goal 9 — locked to the spec discipline or
+  FT, 2 Lifetime, 9 Seasons); max 5 per attribute; permanent; cannot exceed body caps; gain per
+  breaker shrinks as the rating rises (+1 near the cap). Preview appears only at 99 OVR.
+  Physicals breakers: lockercodes allows, nba2klab builder video says no — unresolved.
 - Rebirth: Tier I releases 25% of default tokens, Tier IV all of them.
 - Takeovers: 5 disciplines, 19 abilities + 5 defaults. Discipline levels unlock in order:
   Rebounding (1), Finishing (2), Playmaking (3), Defense (4), Shooting (5).
+
+## Budget (Overall Potential ≤ 99)
+
+- No fixed point pool: Overall Potential is capped at 99; the builder rejects builds whose
+  uncapped overall exceeds 99.0 and shows round(u) otherwise. Overall depends on height and
+  attributes only (position/weight/wingspan only change caps). See `scripts/evaluator.py`.
+- Linked floors the live builder enforces at 6'7" (auto-raise): CS ≥ DL−10 and ≥ MID−15,
+  DL ≥ BH−15, PC ≥ BH−40, SD ≥ DD−50, ID ≥ STL−35 and ≥ PD−44, FT ≥ 3PT−20, OREB ≥ DREB−25,
+  SPD ≥ SWB−4, DREB ≥ PD−40, PASS ≥ BH−25.
+- Live readings (PG 6'7" 192/6'7"): repo build `CS70 DL71 DD87 SD37 PC46 MID85 3PT92 FT72 PASS70
+  BH86 SWB83 ID60 PD85 STL77 BLK70 OREB30 DREB55 SPD85 AGI77 STR71 VRT75` → 98 (loaded unchanged).
+  The 2026-10-08 first draft (3PT92 DD89 PD86 DL85 PASS80 …) was rejected, as were 3PT 88/90 + DD 85
+  variants; 3PT 87 + DD 85 loaded at 98.
+
+## Frame caps (live lockercodes builder)
+
+| Frame | 3PT | MID | DL | DD | BH | SWB | PASS | PD | STL | BLK | SPD | AGI | STR | VRT |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| PG 6'7" 192 / 6'7" WS | 92 | 98 | 92 | 90 | 91 | 83 | 99 | 87 | 88 | 70 | 91 | 89 | 82 | 98 |
+| PG 6'7" 180 / 6'7" | 92 | 98 | 92 | 90 | 91 | 83 | 99 | 87 | 88 | 70 | 91 | 91 | 76 | 99 |
+| PG 6'7" 200 / 6'7" | 92 | 98 | 92 | 90 | 91 | 82 | 99 | 88 | 88 | 70 | 90 | 88 | 86 | 98 |
+| PG 6'7" 180 / 6'8" | 90 | 96 | 94 | 92 | 91 | 83 | – | 89 | 91 | 73 | 91 | 91 | 75 | 99 |
+| PG 6'7" 180 / 6'10" | 87 | 93 | 99 | 96 | 91 | 83 | – | 93 | 95 | 79 | 91 | 91 | 73 | 99 |
+| PG 6'4" 175 / 6'4" | 99 | 99 | 92 | 90 | 96 | 91 | – | 87 | 92 | – | 99 | 99 | 60 | 99 |
+| SG 6'5" 183 / 6'5" | 99 | 99 | 92 | 90 | 95 | 89 | – | 88 | 92 | – | 97 | 96 | 70 | 99 |
+| SG 6'5" 222 / 6'8" | 93 | – | – | 95 | 95 | 88 | – | – | – | 67 | – | – | 89 | – |
+| PG 6'5" 228 / 6'10" | 89 | 92 | 99 | 99 | 95 | 87 | 99 | 99 | 99 | – | 95 | 90 | 89 | 98 |
+| SF 6'8" 190 / 6'8" | 92 | 97 | 92 | 88 | 86 | 80 | – | 87 | 84 | – | 88 | 88 | 81 | – |
+
+- 6'7" PG 3PT cap by wingspan: 6'7" 92, 6'8" 90, 6'9" 88, 6'10" 87, 6'11" 85, 7'0" 83, 7'1" 81.
+- 2K Signature Blueprint caps list higher DD/PD than the custom builder (e.g. 6'7"/206/6'7" DD 95,
+  PD 96) — trust the custom builder.
+
+## Max badge tier reachable by attributes (nba2klab, all 18,935 combos)
+
+- 6'7": Limitless Range, Ankle Assassin, Lightning Launch, Pace → Silver; Deadeye, Quick Trigger,
+  Set and Fire, Arc Cadence, Smooth Operator, Handles for Days, Ankle Braces, Slippery, Flash → Gold.
+- 6'5"–6'6": LR, AA, LL one tier higher; at 6'6" Deadeye/QT/Smooth Operator/Ankle Braces/Flash/
+  Slippery reach HoF.
+
+## Lab tests (nba2klab, pre-v2.0)
+
+- Limitless Range at 27 ft: none 35.4%, Bronze 40.2%, Silver 39.8%, Gold 46.2%.
+- Set and Fire: none 57.6%, Bronze 64.65%, Gold 67.45%. Static Middy stand-still mids: none 46.67%,
+  Gold 58.78% (also boosts stand-still 3s near the line/corner).
+- Deadeye semi-open: none 60.5, S 63, G 64.25, HoF 69.25%. Arc Cadence moving 3s: none 39%, G 43.6%.
+- Quick Trigger: no-dips unbadged 33.1% vs normal 50.4% (needs Gold+).
+- Lightning Launch / Pace boost: 4/5/8/9/14% (B/S/G/HoF/Legend).
+- Handles for Days stamina drain: Silver −23.4%, Gold −39.5%. Dimer Silver: teammates' C&S +3.1 pts.
+- Shot meter off: +10.0% (all on late releases). Release speed vs Normal: Quick −8.5%,
+  Very Quick −12.1%, Slow/Very Slow +1.1% (noise); ~15 ms per notch.
+- Speed/Agility: 85 best stopping point; 76–83 dead zone. Calibrated +15.2 pts (date unknown).
 
 ## Takeovers
 
@@ -130,7 +196,15 @@ Crasher (OREB), Possession Closer (DREB), Sync Snatcher (timed jump), Boxout Bos
 | Behind-back escape Kawhi Leonard | 80 BH |
 | Hesitation escape Coby White | 85 BH |
 | Between-legs escape Zach LaVine | 85 BH |
-| Jumpshot base Ray Allen | 6'5"–6'9", 88–92 3PT or MID (sources differ) |
+| Jumpshot base Ray Allen | 6'5"–6'9", base 88–89 3PT or MID; the measured recipe below needs 92 |
+| Jumper (measured) Ray Allen / Oscar Robertson 42% + Beluba 58%, Push | gate 92; 50 ms window 555–605 ms, 100% at 580 ms, 62% avg (2kjumpers, pre-Sep 17) |
+| Jumper (measured) Quentin Grimes / Oscar Robertson 44% + Sam Hauser 56%, Push | gate 80, < 6'10"; 50 ms window opening 505 ms, 86.7% peak |
+| Jumper Michael Porter Jr. base (measured recipe) | ≥ 6'10" only |
+| Dribble style SGA | 84 SWB (Koza 7.0, 7/7) |
+| Size-up / escapes SGA | 91 BH; Kobe 88 (6'5"–6'9"); Harden/Poole/Paul George 86 |
+| Dribble pull-up Pro 2 | 92 3PT or MID, ≤ 6'9"; Kyrie Irving 90; Cade/Booker/Vassell/Kawhi 89 |
+| Dunk sigs | Obi Toppin 87/75, LaVine 88/73, DJJ 90/75 (6'5"–6'9"), Kobe 92/76, Westbrook 93/80 |
+| Alley-oop: Pro contact | 84 DD + 70 VRT |
 | Dunk: Ja Morant signature | 89 DD + 68 VRT, < 6'10" |
 | Dunk: Pro two-foot contact | 87 DD + 75 VRT |
 | Dunk: Elite two-foot contact | 96 DD + 82 VRT (some report 85 VRT) |
@@ -142,14 +216,20 @@ Crasher (OREB), Possession Closer (DREB), Sync Snatcher (timed jump), Boxout Bos
 | Layup: Anthony Edwards | 84 DL, 5'9"–6'9" |
 | Layup: Amen Thompson | 82 DL, 6'5"–6'9" |
 
-## Patch history relevant to builds
+## Patch history relevant to builds (official: nba.2k.com/2k27/patch-updates)
 
+- v1.2 (2026-08-28): no gameplay changes.
 - v1.3 (2026-08-31): Shot Artist and Calibrated nerfed; REP and Crew XP retuned.
-- ~2026-09-17 (server-side): contests strengthened, wide-open boost, steal and dunk tuning,
-  standardized game speed.
-- 2.0 / 1.008 (2026-10-08): ghost contests fixed (contest measured at release); open shots from
-  good shooters buffed; mid-range buffed in competitive modes; failed steals from low-rated
-  defenders penalized and Steal rating weighted more; Rise Up contact finishes up at all tiers;
-  standing dunks more reliable vs average interior D; Airspace/Detonator output cut,
-  Rim Guardian counters Airspace.
-- 2K has announced a broader patch before Season 2.
+- v1.4 (09-03), v1.5 (09-11): stability only.
+- 2026-09-17 (server-side, all platforms): contests strengthened, wide-open boost, standing dunks
+  better, Rise Up Gold+ better, Steal rating properly rewarded on contact, game speed standardized.
+- v2.0 (2026-10-08 PS5/XSX; 2026-10-16 PC/Switch 2): ghost contests fixed (defender position at
+  release, must be squarely in front); open shots from quality shooters more effective; mid-range
+  boosted in competitive modes; 3PT % slightly rebalanced; shot range fixed for several shooting
+  badges; contact dunks succeed more at every Rise Up tier; correctly timed dunks no longer miss;
+  Shot Artist / Calibrated / Navigator timing windows adjusted; Navigator and Airspace "make defense
+  matter more"; Airspace and Detonator dunk frequency/success reduced; Rim Guardian counters Airspace;
+  steal animations match rating, failed steals by low-rated / out-of-adrenaline defenders penalized;
+  anklebreakers only on hard decels / quick launches; faster passing; BTB escape input fix;
+  Physicals Build Spec tiers 7/9 easier; Crew Divisions use REC settings with shot meters on.
+- Season 2 starts 2026-10-16; 2K said a broader patch would land around Season 2.
