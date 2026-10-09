@@ -46,7 +46,13 @@ Collected data is in `references/breakpoints.md`. Tools are in `scripts/`:
 9. **Verify live if at all possible.** Encode the build with `sharelink.py` and open it in the
    lockercodes builder (a rejected link falls back to defaults with "That shared build is not legal
    under current tuning"). Automated access needs a stealth browser (Cloudflare/anti-bot).
-10. **Be honest about sources.** 2K publishes no threshold tables; nba2klab/lockercodes/2kjumpers are
+10. **Compare frames explicitly.** Sweep heights 6'2"–6'10" (and bigs/small guards qualitatively),
+    score with several weightings (shooter / two-way / slasher), shift uncalibrated budgets by
+    +0.5–1.5 OVR, vary the value of height, and report a regret table and the break-even height value.
+    Only frames with exact caps count; reject extrapolated caps that fail the evaluator.
+11. **Cap breakers and exploits:** follow the rules in references; list exploits separately with
+    ban-risk labels and never include them in a build.
+12. **Be honest about sources.** 2K publishes no threshold tables; nba2klab/lockercodes/2kjumpers are
     the best data; several guide sites sell VC/MT. End with an in-game checklist and sources.
 
 ## Research notes

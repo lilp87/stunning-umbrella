@@ -1,24 +1,49 @@
-# NBA 2K27 – הבילד האולטימטיבי: 6'7" Zip-Air Tall PG
+# NBA 2K27 – הבילד האולטימטיבי: 6'3" Zip-Air Mini-Marksman PG
 
-> **מעודכן ל-8 באוקטובר 2026, פאץ' v2.0 (רשמי).**
-> הבילד נבדק בבילדר חי (lockercodes), נטען בלי שינוי אחד ומציג **98 OVR**.
-> **פתיחה ישירה בבילדר:** [6'7" Zip-Air Tall PG](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYgxDoAwDAP_0hlHSUvq9AWs7IiJtWLj_7RISNZZd0faN2ETa3keFTQEUYi1Ihwtg2OKGFpQdUZylqJw_9VAlyst99P7h_MF)
-> שמות התכונות, הבאדג'ים והאנימציות כתובים באנגלית, כמו שהם מופיעים במשחק.
+> **מעודכן ל-9 באוקטובר 2026, פאץ' v2.0 (רשמי).** הפאץ' יצא ב-8.10 ל-PS5/Xbox, ויגיע ב-16.10 ל-PC/Switch 2.
+> **נבדק בבילדר חי (lockercodes, ‏9.10):** הבילד נטען בלי שינוי אחד ומציג **98 OVR**, עם "Room to grow ~1".
+> **[פתיחה ישירה בבילדר](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HYs7DoAwDEPv0hlHbUN-J2BlR0ysFRv3p-liPz3ZVzkPMqHeOMsrrMMDLOAJgtihAZ1scIdESuc1EGhdvuXFnJ6yvd8YK-4f)**
+> שמות התכונות, הבאדג'ים והאנימציות כתובים באנגלית כמו שהם מופיעים במשחק.
 
-## בקצרה
+## התשובה הקצרה
 
-גארד בגובה 6'7" שקולע משלוש רמות ושומר על הכדור, ומחזיק כמה דברים במקביל:
-- **Zip Code** וג'אמפר Ray Allen. זה הג'אמפר היחיד בגבהים 6'5"–6'9" שיש לו מדידה אמיתית.
-- **Airspace ו-Pro Contacts** כבר מהיום הראשון.
-- **Glue ו-Seatbelt** בהגנה על הכדור.
-- **High-Flying Denier ו-Paint Patroller.** הם אפשריים רק בגובה 6'7", כי רק שם תקרת ה-Block היא 70.
+אחרי בדיקה של **כל הגבהים, המטא אחרי v2.0, הדריבל, ה-Cap Breakers והפרצות**, הבילד הראשי השתנה. **6'7" PG** לא נזרק; הוא נשאר [חלופה ראשית](#11-חלופה-ראשית-67-zip-air-tall-pg-נבדק-חי) שגם היא נבדקה בבילדר החי.
 
-## איך הבילד נבחר
+### למה 6'3"
+- **מודל הערך (614 פריימים, 3 סגנונות משחק, 72 תרחישים):** ה-6'3" מנצח את ה-6'7" בקליעה, בדו-כיווני ובסלאשר, גם אחרי תיקון של שגיאת המודל. ה-6'7" ניצח ב-0 מתוך 72 התרחישים.
+- **תקרות גבוהות יותר:** ‏3PT 99, ‏BH 97 ו-SWB 91, מול 92, ‏91 ו-83 ב-6'7".
+  - **Limitless Range Gold** מהיום הראשון, ועם Cap Breakers מגיע ל-HoF. ב-6'7" הוא נעצר ב-Silver, שבמבחן המעבדה לא טוב יותר מ-Bronze.
+  - **Mini Marksman** (קיים רק עד 6'4").
+  - **ג'אמפר Curry:** החלון הרחב ביותר שנמדד, 60ms מול 50ms.
+  - **סגנון כדרור Ja Morant:** הציון הכי גבוה (7.5).
+  - **החבילות של Curry ו-Trae** (ב-BH 92).
+- **פאץ' v2.0:**
+  - **רשמי:** contest דורש לעמוד ישר מול הקולע ברגע השחרור.
+  - **Splash, שחקן מקצוען:** ה-contests נחלשו באופן כללי.
+  - **השפעה:** היתרון של גובה בהגנה קטן, וקלעים מקבלים יותר.
+- **Cap Breakers:** ‏6'7" PG הוא פריים הגארד שמקבל הכי מעט מ-Cap Breakers (+1 לתכונות הליבה). ב-6'3" יש מקום לעלות ב-3PT, ‏BH ו-SWB.
 
-- **מחקר:** 8 מסלולי מחקר במקביל. הם כיסו את דף הפאצ'ים הרשמי של 2K, את NBA2KLab, את lockercodes ו-2kjumpers, 15 תמלולי יוטיוב (דרך vidIQ), את Reddit ואתרי מדריכים. ההשוואה ביניהם העלתה כ-340 עובדות עם מקור.
-- **מודל תקציב:** נבנה מתוך 3,591 בילדים שלמים (99 OVR) ונבדק מול 19 קריאות מהבילדר החי. **התברר שהגרסה הקודמת של הקובץ חרגה מהתקציב, והבילדר דחה אותה.**
-- **3 עיצובים מתחרים:** כל עיצוב נבחן על ידי 2 בודקים שניסו להפריך אותו. שופט בחר את הבילד הזה ותיקן אותו לפי ההערות.
-- **בדיקה סופית:** הבילד נטען בבילדר חי ב-98 OVR, וכל 21 התכונות והתקרות תואמות.
+### מתי לבחור דווקא את 6'7"
+- אם חשוב לך גובה בהגנה, contests ובלוקים (HFD ו-Paint Patroller).
+- אם אתה מניח ש-2K תבטל את חיזוק הקליעה בפאץ' של Season 2 (‏16.10). יש על זה ביקורת קהילה כבדה.
+- במשחק דו-כיווני, ה-6'7" משתווה ל-6'3" רק אם גובה שווה בערך פי 2.7 ממה שהמודל מניח.
+
+> **כנות:** "אולטימטיבי" כאן הוא הבילד שהכי מגובה בראיות, לא הוכחה. אף מעבדה לא בדקה כמה גובה שווה אחרי v2.0, והמטא בן 30 שעות.
+
+---
+
+## מה נבדק
+
+| נושא | מה נבדק | תוצאה |
+|---|---|---|
+| **כל הגבהים** | 1,281 פריימים (614 נסרקו), PG/SG/SF/PF, ‏6'2"–6'10", כל משקל ומוטה. 3 סגנונות משחק, 4 רמות של שגיאת מודל, 6 ערכי גובה (72 תרחישים) | 6'3" ‏213/6'3" הוא הפריים הכי טוב עם תקרות מדודות. 6'4" ‏214/6'6" הכי יציב מול אי-ודאות. ‏6'2" עם תקרות "מוערכות" נפסל (STR מעל התקרה) |
+| **ביגים (6'9"–7'3")** | נתוני מעבדה, 3,591 בילדים שמורים, דיווחים אחרי v2.0 | חזקים רק כתפקיד בחמישייה (Rim Guardian, ‏BLK 96). ההתקפה בפנים עדיין "שבורה" אונליין |
+| **גארדים נמוכים (5'9"–6'4")** | אותם מקורות | ה-6'3" הוא האלטרנטיבה החזקה ביותר |
+| **מוטה קצרה מהגובה** | 3,591 בילדים שמורים | הבילדר לא מאפשר (0 מקרים) |
+| **מטא אחרי v2.0** | Reddit, ‏Splash, יוצרים, ‏X | קליעה קלה הרבה יותר, contests נחלשו, ספאם חטיפות נענש, Airspace חלש יותר אבל עדיין חזק |
+| **דריבל** | ציוני Koza, טבלאות דרישות, יוצרים (6 תמלולים) | 6'4" ומטה הוא גובה הדריבל הטוב ביותר. ב-6'7" חלק מבחירות ה-escapes היו שגויות ותוקנו |
+| **Cap Breakers** | חוקים רשמיים, סולמות מדודים, פרצות | אין גליץ' שעובר את התקרה. הפרצה היחידה (שכפול Crew) מסוכנת לבאן. הטריק החוקי (בסיס נמוך) משתלם רק ב-6'7" |
+| **בדיקה חיה** | lockercodes | 6'3": ‏98 ✓. ‏6'7": ‏98 ✓ (8.10) |
 
 ---
 
@@ -27,208 +52,213 @@
 | פרמטר | ערך | למה |
 |---|---|---|
 | Position | **PG** | |
-| Height | **6'7"** | לפי Mike Wang, הגובה משפיע על contest יותר מ-Perimeter D. מאז שפאץ' v2.0 תיקן את ה-ghost contests, זה חשוב עוד יותר |
-| Weight | **192 lbs** | המשקל הכבד ביותר שבו תקרת Speed With Ball עדיין 83 (מ-200 lbs היא יורדת ל-82, ומאבדים את סגנון הכדרור של LaVine) |
-| Wingspan | **6'7"** | המוטה היחידה בגובה 6'7" עם תקרת 3PT של 92. בכל מוטה ארוכה יותר אין Zip Code (6'8" ← 90, 6'9" ← 88, 6'10" ← 87) |
+| Height | **6'3"** | הגובה הכי גבוה שבו כל הבאדג'ים של הקליעה מגיעים ל-HoF |
+| Weight | **213 lbs** | תקרות מדודות ומלאות (STR 89) |
+| Wingspan | **6'3"** | שומר על 3PT 99. ‏Block מוגבל ל-59, זה המחיר |
 
-**התקרות בפריים הזה (נמדדו בבילדר החי):**
-- 3PT 92, MID 98, FT 99
-- DL 92, DD 90, CS 92, SD 91, PC 92
-- PASS 99, BH 91, SWB 83
-- PD 87, STL 88, BLK 70, ID 91
-- OREB 68, DREB 74
-- SPD 91, AGI 89, STR 82, VRT 98
+**התקרות (בילד שמור 33708141):** 3PT 99, ‏BH 97, ‏SWB 91, ‏DD 90, ‏STR 89, ‏BLK 59.
 
 ---
 
-## 2. תכונות: הבילד הבסיסי (נטען בבילדר החי ב-98 OVR)
+## 2. תכונות: הבסיס (נטען בבילדר החי ב-98 OVR)
 
 | תכונה | ערך | מה זה פותח |
 |---|---|---|
-| Close Shot | **70** | רצפה מקושרת (CS ≥ MID−15). Float Game Bronze |
-| Driving Layup | **71** | רצפה מקושרת (DL ≥ BH−15). Physical Finisher Bronze |
-| Driving Dunk | **87** | **Airspace** (87+75 VRT), Pro Contact Dunks Off Two, Posterizer Silver, Aerial Wizard Gold, Obi Toppin Sig |
-| Standing Dunk | **37** | רצפה מקושרת (SD ≥ DD−50) |
-| Post Control | **46** | רצפה מקושרת (PC ≥ BH−40) |
-| Mid-Range Shot | **85** | Static Middy Gold (אושר בבילדר החי), Calibrated כ-takeover חלופי, Smooth Operator Bronze. המיד-ריינג' חוזק בפאץ' v2.0 |
-| Three-Point Shot | **92** (תקרה) | **Zip Code** (91), **Deadeye Gold** (92), **Set and Fire Gold** (89), Limitless Range Bronze, ג'אמפר Ray Allen (92), Pro 2 Pull-up (92) |
-| Free Throw | **72** | רצפה מקושרת (FT ≥ 3PT−20) |
-| Pass Accuracy | **70** | Dimer Silver. במעבדה: +3.1% לזריקות catch-and-shoot של חברי הקבוצה |
-| Ball Handle | **86** | **Blur** (85/80), Size-up ו-escapes של Harden (86), Handles for Days Silver, Ankle Assassin Silver |
-| Speed With Ball | **83** (תקרה) | סגנון כדרור **Zach LaVine** (83), Pace ו-Lightning Launch (Silver הוא המקסימום בגובה 6'7") |
-| Interior Defense | **60** | **Paint Patroller Bronze** (60 + 70 BLK), Off-Ball Pest |
-| Perimeter Defense | **85** | **Glue** (85), **Seatbelt Silver** (85 + 77 AGI), Off-Ball Pest Gold, Immovable Enforcer Bronze |
-| Steal | **77** | Interceptor Silver, Glove Bronze |
-| Block | **70** (תקרה) | **High-Flying Denier Bronze** (68 + 60 VRT) ו-Paint Patroller Bronze |
-| Offensive Rebound | **30** | רצפה מקושרת (OREB ≥ DREB−25) |
-| Defensive Rebound | **55** | Sync Snatcher Bronze |
-| Speed | **85** | נקודת העצירה הטובה ביותר לפי מבחן המעבדה. Slippery Off-Ball Gold (85 + 77 AGI) |
-| Agility | **77** | Seatbelt Silver, Slippery Gold, Work Horse Silver |
-| Strength | **71** | **Bruiser Bronze**, **Immovable Enforcer Bronze**, Physical Finisher Bronze |
-| Vertical | **75** | ה-75 שנדרש ל-Airspace, ל-Pro Contacts ול-Posterizer |
+| Close Shot | **80** | Float Game Silver |
+| Driving Layup | **72** | רצפה מקושרת. Physical Finisher |
+| Driving Dunk | **89** | Airspace, ‏**Pro Contact Off One** (89/78) ו-Off Two, ‏Small Contacts Off Two, ‏Ja Morant Sig, ‏Posterizer Silver |
+| Standing Dunk | **35** | רצפה מקושרת |
+| Post Control | **32** | רצפה מקושרת |
+| Mid-Range Shot | **85** | Static Middy Gold, ‏Calibrated. המיד-ריינג' חוזק ב-v2.0 |
+| Three-Point Shot | **94** | **Zip Code**, ‏**Limitless Range Gold**, ‏**Mini Marksman Gold**, ‏Deadeye Gold, ‏Set and Fire Gold, ‏ג'אמפר Curry (93) |
+| Free Throw | **69** | |
+| Pass Accuracy | **62** | Dimer Bronze |
+| Ball Handle | **87** | **Blur**, ‏Size-up של Harden, ‏Ja escapes, ‏Strong Handle |
+| Speed With Ball | **88** | **סגנון Ja Morant** (85), ‏**Lightning Launch Gold**, ‏Pace Gold |
+| Interior Defense | **59** | |
+| Perimeter Defense | **85** | **Glue**, ‏Seatbelt Silver |
+| Steal | **83** | Interceptor Silver, ‏Glove Silver. ב-Cap Breaker הראשון מגיע ל-85 (Hawk) |
+| Block | **35** | |
+| Offensive Rebound | **35** | |
+| Defensive Rebound | **60** | Sync Snatcher |
+| Speed | **87** | **Flash Gold** (87/81) |
+| Agility | **81** | Flash Gold |
+| Strength | **89** (תקרה) | **Strong Handle Gold**, ‏Immovable Enforcer, ‏Bruiser, ‏Work Horse Gold, ‏Demolition |
+| Vertical | **78** | Pro Contact Off One, ‏Airspace |
 
-> **חשוב:** הבילדר מעלה אוטומטית תכונות "עוקבות" (למשל CS ≥ DL−10, ‏PC ≥ BH−40, ‏ID ≥ STL−35). כל הערכים כאן כבר עומדים בכללים האלה, ולכן הבילד נטען בלי העלאות אוטומטיות.
+**מה הבילדר החי הראה כזכאי:**
+- **Gold:** ‏Deadeye, ‏Limitless Range, ‏Mini Marksman, ‏Set and Fire, ‏Arc Cadence, ‏Static Middy, ‏Lightning Launch, ‏Pace, ‏Strong Handle, ‏Ankle Assassin, ‏Flash, ‏Work Horse, ‏Slippery Off-Ball, ‏Off-Ball Pest, ‏Immovable Enforcer, ‏Aerial Wizard.
+- **Takeovers:** ‏Zip Code, ‏Shot Artist, ‏Calibrated, ‏Airspace, ‏Blur, ‏Glue, ‏Demolition.
+- **הערה:** הבילדר הראה Ankle Assassin Gold ב-BH 87, למרות שבטבלאות הקהילה Gold דורש 93. צריך לוודא במשחק.
 
-### להגיע ל-99 (בשביל הפריוויו של ה-Cap Breakers)
-הפריוויו מופיע רק כשהבילד ב-99 OVR. את השלבים מוסיפים אחד-אחד, ושומרים את האחרון שהבילדר מקבל. אף אחד מהם לא נבדק בבילדר החי, וכבר השלב הראשון הוא בערך 50/50.
+### מילוי ל-99 (חובה בשביל Cap Breakers)
+לפי מדריכים, מסך ה-Cap Breakers נפתח רק כשהבילד ב-99 OVR. מוסיפים את השלבים אחד-אחד, ועוצרים בשלב הראשון שמראה 99. אם שלב נדחה, חוזרים שלב אחד אחורה.
 
-| שלב | שינוי | מה מקבלים | לינק |
+| שלב | שינוי | מודל | לינק |
 |---|---|---|---|
-| FILL1 | Strength ← 75 | Strong Handle Bronze, Work Horse Silver | [FILL1](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYgxDoAwDAP_0hlHaUPq9gWs7IiJtWLj_zRISNZZd0faN2GX3EscFcxohBFrRXP0As4p2lRD1YhkFFO4_zrpcqXlfsb4cL4) |
-| FILL2 | + Agility ← 78 | Flash Silver | [FILL2](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HYgxDoAwDAP_0hlHaUvq9AWs7IiJtWLj_zSVrLPurnQewi65lzgqmOFEJfYGN_QCzil8akXTiGSUqjBb6uCkyZO29xtj4f4B) |
-| FILL3 | + Vertical ← 78 | Pro Contact Off One (כש-DD מגיע ל-89) | [FILL3](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HYgxDoAwDAP_0hlXaUvq5AWs7IiJtWLj_zSVrLPurnQemZ6L1zgKWGBEI_YOU3gF5wQ2taFLRDJKE6guNTCYn7S93xgL9w8) |
+| F1 | ID ← 65, ‏DREB ← 62 | 98.25 | [F1](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_i1YKcNczN9UzMjQGURYGuuZGuhaWusamusZAhqmupYmumaWuGZBtrmthoWtmChK0MAYrMIWJG4K0mFvoJSvp5JXm5ICJWAA) |
+| F2 | CS ← 82 | 98.29 | [F2](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_i1YKcNczN9UzMjQGURZGuuZGuhaWusamusZAhqmupYmumaWuGZBtrmthoWtmChK0MAYrMIWJG4K0mFvoJSvp5JXm5ICJWAA) |
+| F3 | PD ← 86 | 98.36 | [F3](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_LYsxDoAwDAP_0hlXakIS5wWs7IiJtWLj_7SIxT6d7KPsWw2r0nQWBSFgQg06wJArPOGDAyTcQAcV6nPz-zYvwXqV5X56_-J8AQ) |
+| F4 | AGI ← 82 | 98.43 | [F4](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_LYsxDoAwDAP_0hlHoiGJ8wJWdsTEWrHxf9qKxT6d7LMcu4RJXXUUK6KCCTVoB0Nu8IR3DpBwAx1UqI_N7-clKHdZnre1GdcH) |
+| F5 | AGI ← 83 | 98.51 | [F5](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_LYsxDoAwDAP_0hlHoiGJ8wJW9oqJtWLj_7SIxT6d7FaOXcKkrjqLFVHBhBp0gCE3eMIHB0i4gQ4q1Ofm9zovQbnKcj-9f3G-) |
+| F6 | OREB ← 59 | 98.64 | [F6](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_PYsxDoAwDAP_0hlHoiGJ8wJW9oqJtWLj_7QMLOeTpWvl2CVM6qpzWBEVTKhBhxhygyd8eICEG-igQh32_zqToFxluZ_eP5wv) |
+| F7 | PC ← 63 | 98.92 | [F7](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_PYshDoAwFMXuMk2XsM__ezsBFk9Q2AXH_WEITJs06Z62NVfPZbYhFWpBDXPCkNMWohFvrEiEo0CGBf53G0tVPtN03b1_OB4) |
 
-### אם הבילדר של 2K מסרב (סולם הורדות)
-| שלב | שינוי | מה מאבדים | לינק |
-|---|---|---|---|
-| CUT1 | DREB ← 45, ‏OREB ← 25 | רק את Sync Snatcher | [CUT1](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYg7CoAwEETvktpZNp_NbE5gm16sbIOd9zcRhOEN7x2h78ImsaV1VDDCiUyUCje0BM4pfGpG1RXJVZKh2K8RNLnCdj9jfDhf) |
-| CUT2 | + 3PT ← 91 | Deadeye יורד ל-Silver והג'אמפר מתחלף לגיבוי. **Zip Code נשאר** | [CUT2](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYo5DoAwDAT_kpqNcjnrvIA2PaKijej4PzYSzY5mtEeYe-SIeRQHE5ihRCVahwpGBgusq2lFTx5JL0XQ5Fe7SbzCdj9rfXO-) |
-| CUT3 | + Mid ← 80 | Static Middy יורד ל-Silver | – |
-| CUT4 | + Strength ← 60 | Bruiser ו-Immovable | – |
-| CUT5 | + Block ← 40 | High-Flying Denier ו-Paint Patroller | – |
-
-**לא מורידים בשום מצב:**
-- 3PT מתחת ל-91 (Zip Code)
-- DD מתחת ל-87 או VRT מתחת ל-75 (Airspace)
-- BH מתחת ל-86 או SWB מתחת ל-83
-- PD מתחת ל-85 או AGI מתחת ל-77
-- Speed מתחת ל-85
+- **אם הבסיס נדחה בבילדר של 2K:**
+  - [CUT1](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HYsxDoAwDAP_0hlXLSGJ8wLW7oiJtWLj_7Rd7NPJvlI7s2veq8xigVcwIAoZoIgDFrDBBhIaU1LWQGEFdHBdnPlJ2_v1vuL-AQ): ‏BH ← 86 (מודל 98.00).
+  - [CUT2](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_JYs5DoAwEAP_khqvCMF7vIA2PaKijej4P0lo7NHIPlM9xChbLqOMsAwPFKJ0IGKHBrSzwh2MIe0fELrCDT4v5nKn5Xlbm3F9): בנוסף CS 75 ו-STL 79.
+- **לא מורידים:** 3PT מתחת ל-94, ‏DD מתחת ל-89, ‏VRT מתחת ל-78, ‏SWB מתחת ל-88, ‏PD מתחת ל-85, ‏SPD מתחת ל-87, ‏AGI מתחת ל-81.
 
 ---
 
-## 3. Cap Breakers (תוכנית שאפשר באמת לבצע)
+## 3. Cap Breakers
 
-- Cap Breakers **לא עוברים את תקרת הגוף**. 3PT, ‏SWB ו-BLK כבר בתקרה, ולכן לא שמים עליהם.
-- מקסימום 5 לכל תכונה, ואי אפשר לבטל אותם. בסך הכל יש 28, וכ-20 מהם זמינים היום.
+**חוקים (רשמי ונמדד):**
+- מקסימום 5 לכל תכונה. אי אפשר לבטל, ואי אפשר לעבור את תקרת הגוף.
+- **זכאות** לבאדג'ים, ל-takeovers ולאנימציות נקבעת לפי הדירוג אחרי ה-Cap Breakers. **טוקנים ו-slots** נקבעים לפי דירוג הבסיס.
+- ה-2 של Build Specialization נכנסים רק לדיסציפלינה שלו או ל-FT, לא ל-Physicals. Cap Breakers כלליים על Physicals כנראה מותרים.
+- **ה-Cap Breaker של Season 1 (רמה 40) צריך להשיג לפני 16.10.**
+
+**התוכנית (18 כלליים + 2 Spec):**
 
 | # | תכונה | יעד | מה מקבלים |
 |---|---|---|---|
-| 1–2 | Driving Dunk | 87 ← 89 | Ja Morant Sig (89/68), Back Scratchers Off One. יחד עם VRT 78: **Pro Contact Off One** |
-| 3–6 | Ball Handle | 86 ← 90 | Kobe size-up ו-escapes (88), **Handles for Days Gold** (90; במעבדה הוא חוסך פי 1.7 יותר סטמינה מ-Silver), Cook כאופציה |
-| 7 | Driving Dunk | 89 ← 90 (תקרה) | Derrick Jones Jr. Sig (90/75) |
-| 8 | Ball Handle | 90 ← 91 (תקרה) | Size-up ו-escapes של SGA |
-| Spec (2) | Mid-Range | 85 ← 87 | שני ה-breakers של Shooting Build Specialization (מוגבלים ל-Shooting/FT): Smooth Operator Silver |
-| אופציונלי | Vertical | 75 ← 79 | Pro Contact Off One, ‏Jaylen Brown Sig |
-| אופציונלי | Agility, ואחריו Speed | AGI 81, SPD 87 | Pick Dodger Silver, Flash Gold |
+| 1–3 | BH | 87 ← 90 | **Cook**, ה-size-ups, ה-escapes והקומבו של Kyrie ו-Lillard, ‏Handles for Days Gold |
+| 4–5 | BH | 90 ← 92 | **החבילות של Curry ו-Trae** (size-up, escapes, misdirection, combos), ‏Unpluckable Gold |
+| Spec ×2 | 3PT | 94 ← 96 | |
+| 6–8 | 3PT | 96 ← 99 | **HoF** ב-Deadeye, ‏Limitless Range, ‏Mini Marksman, ‏Set and Fire ו-Quick Trigger |
+| 9–11 | SWB | 88 ← 91 | Lightning Launch HoF |
+| 12–15 | STL | 83 ← 90 | **Hawk** (85), ‏Interceptor Gold (90) |
+| 16–17 | MID | 85 ← 87 | Smooth Operator Silver |
+| 18 | VRT | 78 ← ~81 | Pogo Stick Gold. אם Physicals חסום: ‏STL או PD |
 
-> **שימו לב:** לא ברור אם מותר לשים Cap Breakers על תכונות Physicals (VRT/AGI/SPD/STR). lockercodes מתיר, וסרטון הבילדר של NBA2KLab אומר שלא. לכן קודם שמים על Finishing, Playmaking ו-Shooting. אם Physicals חסום: PD ← 87 (התקרה).
+- **בלי DD** (התקרה 90).
+- **בלי טריק "בסיס נמוך":** ב-6'3" הוא משחרר רק 0.68 OVR.
+- [לינק לתוכנית](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z39_LYsxDsMwDAP_krln2FIkyy_omj0IPGQ1svX_tYsOJA8EeW7HO1VLUnRFCFWIhho6wWg73vDJlQjcCCcU9bX597ouNdLtWG9TJaO9KHs3pEumbK_nM8bPri8) (מחובר למצב F5).
+
+**פרצות, עם רמת סיכון:**
+
+| פרצה | סיכון |
+|---|---|
+| **שכפול Cap Breakers ב-Crew** (מעיפים חברים מ-Crew ברמה 40 ומעלים רמה שוב) | **גבוה.** שובר את החוק "Crew CBs are earned only once". **לא בבילד** |
+| שיתוף חשבון, או גריינד REP/CB בתשלום | **גבוה מאוד.** דווח על באן קבוע ב-9.10 |
+| סקריפטים, מאקרו, עזרי קליעה | **גבוה מאוד.** גל הבאנים מ-24.9 |
+| קנייה או מכירה של חשבון או VC | **גבוה** |
+| Sprint-cancel עם D-pad emote | **תוקן ב-v2.0** |
+| אופטימיזציה של סולם ה-Cap Breakers (בסיס נמוך = קפיצה גדולה) | **אין סיכון.** זה התצוגה המקדימה של 2K עצמה |
 
 ---
 
-## 4. באדג'ים: 20 סלוטים
+## 4. באדג'ים
 
-סך הטוקנים לפי דיסציפלינה, מול המקסימום של Mike Wang:
+**הערכת היצע הטוקנים לפי בסיס (מבוססת על בילדים שמורים באותו פריים):**
 
-| דיסציפלינה | בשימוש | מקסימום |
-|---|---|---|
-| Shooting | 22 | 23 |
-| Finishing | 10 | 24 |
-| Playmaking | 12 | 23 |
-| Defense | 14 | 22 |
-| Physicals | 7 | 15 |
-| Rebounding | 1 | 15 |
+| דיסציפלינה | טוקנים / slots |
+|---|---|
+| Finishing | ~9 / 3 |
+| Shooting | ~17 / 5 |
+| Playmaking | ~12–13 / 5 |
+| Defense | ~9 / 4 |
+| Rebounding | ~1 / 1 |
+| Physicals | ~10 / 3 |
 
-| Badge | דיסציפלינה | Tier | דרישה | טוקנים | למה (נתוני מעבדה) |
-|---|---|---|---|---|---|
-| **Deadeye** | Shooting | Gold | 92 3PT | 6 | הקפיצה הגדולה ביותר היא מ-Gold ל-HoF (64%→69%), ולכן זה המועמד ל-Fuse |
-| **Set and Fire** | Shooting | Gold | 89 3PT | 5 | Bronze כבר נותן את רוב התועלת (57.6%→64.7%). Gold מגיע ל-67.5% |
-| **Static Middy** | Shooting | Gold | 85 MID | 5 | זריקות מיד-ריינג' מעמידה: 46.7%→58.8% |
-| **Limitless Range** | Shooting | Bronze | 83 3PT | 3 | **Silver לא טוב יותר מ-Bronze** (39.8% מול 40.2%), ו-Gold לא אפשרי בגובה 6'7" |
-| Smooth Operator | Shooting | Bronze | 70 MID | 3 | עולה ל-Silver כש-MID מגיע ל-87 |
-| **Posterizer** | Finishing | Silver | 87 DD + 75 VRT | 5 | פאץ' v2.0 העלה את אחוזי ההצלחה של contact dunks |
-| Float Game | Finishing | Bronze | 65 CS | 3 | התשובה ל-Rim Guardian ולביגים עם 96+ Block |
-| Physical Finisher | Finishing | Bronze | 60 DL + 60 STR | 2 | לייאפים דרך מגע |
-| **Handles for Days** | Playmaking | Silver | 81 BH | 4 | עולה ל-Gold כש-BH מגיע ל-90 |
-| Dimer | Playmaking | Silver | 70 PASS | 3 | |
-| Lightning Launch | Playmaking | Bronze | 68 SWB | 3 | Silver נותן רק +1% |
-| Pace | Playmaking | Bronze | 70 SWB | 2 | Silver נותן רק +1% |
-| **Seatbelt** | Defense | Silver | 85 PD + 77 AGI | 5 | הבאדג' המוערך ביותר בהגנה על הכדור |
-| Interceptor | Defense | Silver | 77 STL | 4 | חטיפות בנתיבי מסירה עוקפות את העונש של v2.0 על reach כושל |
-| **Paint Patroller** | Defense | Bronze | 60 ID + 70 BLK | 3 | |
-| **High-Flying Denier** | Defense | Bronze | 68 BLK + 60 VRT | 1 | "הבאדג' הכי שבור" לפי הקהילה |
-| Immovable Enforcer | Defense | Bronze | 62 PD + 71 STR | 1 | |
-| **Slippery Off-Ball** | Physicals | Gold | 85 SPD + 77 AGI | 5 | Gold הוא המקסימום בגובה 6'7" |
-| Bruiser | Physicals | Bronze | 71 STR | 2 | שואב סטמינה במגע. NBA2KLab: "חזק ב-2K27" |
-| Sync Snatcher | Rebounding | Bronze | 55 DREB | 1 | |
+את המספרים האמיתיים צריך לקרוא בשורת "Tokens/Slots" בבילדר.
 
-- **סדר קנייה:** קודם Bronze בכל הבאדג'ים, ורק אחר כך שדרוגים. סדר הערך לכל טוקן: Set and Fire B, ‏Static Middy B, ‏Deadeye B, ‏Dimer, ‏Handles for Days, ואחריהם הבאדג'ים של טוקן אחד בהגנה.
-- **Build Specialization: Shooting.**
-  - Goal 9 נותן 2 Cap Breakers, והם הולכים ל-MID 87.
-  - Goal 10 נותן זוג Synergy קבוע של +2:
-    - **Fuse:** ‏Deadeye (מ-Gold ל-HoF), והוא משחרר את 6 הטוקנים שלו.
-    - **Reaction:** ‏Set and Fire.
-- **Crew Synergy (רמות 28 ו-39, קבוע):**
-  - Fuse ‏Seatbelt עם Reaction ‏Interceptor.
-  - Fuse ‏Handles for Days עם Reaction ‏Pace.
-- **Synergy של Season 1 פג ב-16.10.** משתמשים בו רק כבוסט זמני.
-- **Loadout B (Park / 1v1):** ‏Slippery מתחלף ל-Work Horse Silver, ‏Dimer ל-Ankle Assassin Silver, ו-Interceptor ל-Glove Bronze. ‏Zip Code מתחלף ל-Calibrated במשחקים קצרים.
-- **לא נכנסו, ולמה:**
-  - **Arc Cadence:** חלש במבחן (43.6% מול 39% בלי באדג').
-  - **Challenger:** הקהילה ו-YaadManGaming אומרים שהוא לא עובד.
-  - **Ankle Braces ו-Unpluckable:** פאץ' v2.0 הקשיח את תנאי ה-anklebreakers.
-  - **Rise Up:** שייך ל-Standing Dunk, שלא נכנס לבילד.
+**הסט ליום הראשון (16 באדג'ים):**
+
+| דיסציפלינה | Badge | Tier | טוקנים | הערה |
+|---|---|---|---|---|
+| Shooting | **Limitless Range** | Gold | 6 | במעבדה ב-27 רגל: Gold ‏46.2% מול Silver ‏39.8% |
+| Shooting | **Deadeye** | Silver | 5 | Gold ב-טוקן אחד נוסף |
+| Shooting | Set and Fire | Bronze | 2 | Bronze כבר נותן +7 נקודות |
+| Shooting | Static Middy | Bronze | 2 | |
+| Shooting | **Mini Marksman** | Bronze | 1 | Gold זכאי (+3). לא נבדק במעבדה |
+| Finishing | **Posterizer** | Silver | 5 | |
+| Finishing | Float Game | Bronze | 3 | התשובה ל-Rim Guardian |
+| Finishing | Aerial Wizard | Bronze | 1 | |
+| Playmaking | **Lightning Launch** | Gold | 6 | Gold ‏8% מול Silver ‏5% |
+| Playmaking | **Strong Handle** | Silver | 4 | Gold ב-+1 |
+| Playmaking | Pace | Bronze | 2 | |
+| Defense | **Seatbelt** | Silver | 5 | |
+| Defense | Interceptor | Silver | 4 | אחרי v2.0 רוב העצירות מגיעות מנתיבי מסירה |
+| Rebounding | Sync Snatcher | Bronze | 1 | |
+| Physicals | **Flash** | Gold | 6 | |
+| Physicals | Slippery Off-Ball | Silver | 4 | Gold ב-+1 |
+
+- **עם טוקנים נוספים, לפי הסדר:**
+  1. Dimer Bronze
+  2. Deadeye Gold
+  3. Strong Handle Gold
+  4. Slippery Gold
+  5. Handles for Days Silver
+  6. Pick Dodger Silver או Glove Silver
+  7. Set and Fire Gold
+  8. Mini Marksman Gold
+- **Synergy:**
+  - **Shooting Spec, ‏goal 10 (‏+2, קבוע):** ‏Fuse על Limitless Range (מ-Gold ל-HoF) ו-Reaction על Deadeye. הטוקנים שמשתחררים הולכים ל-Static Middy Gold.
+  - **Crew 28/39:** ‏Fuse על Lightning Launch עם Reaction על Pace, ו-Fuse על Seatbelt עם Reaction על Interceptor.
+  - **Season 1:** ה-Synergy שלו פג ב-16.10.
+- **לא אפשרי בגובה 6'3":** HFD, ‏Paint Patroller, ‏Rim Guardian, ‏Post Lockdown.
 
 ---
 
 ## 5. Takeovers
 
-| דיסציפלינה | Takeover | דרישה | למה |
+| דיסציפלינה | Takeover | דרישה | הערה |
 |---|---|---|---|
-| Shooting | **Zip Code** | 91 3PT | אף פאץ' לא נגע בו. יוצרים מתארים אותו כאיטי להתמלא אבל "game over" כשהוא דולק. במשחקים קצרים: Calibrated |
-| Finishing | **Airspace** | 87 DD + 75 VRT | השחקן המקצוען Splash אחרי v2.0: "Airspace is still King". הוא אמנם נחלש, ו-Rim Guardian עוצר אותו, אבל contact dunks קיבלו חיזוק |
-| Playmaking | **Blur** | 85 BH + 80 SWB | v2.0 לא נגע בו. אפשר להחליף ל-Cook כש-BH מגיע ל-90, אבל v2.0 החליש את ה-anklebreakers |
-| Defense | **Glue** | 85 PD | v2.0 לא נגע בו. עכשיו contest דורש לעמוד ישר מול השחקן ברגע השחרור |
-| Rebounding | **Hydration Hero** | בלי דרישה (Progression L6) | Mike Wang: אובדן אדרנלין מכווץ את החלון הירוק |
-
-סדר הפתיחה: Rebounding (1), ‏Finishing (2), ‏Playmaking (3), ‏Defense (4), ‏Shooting (5).
+| Shooting | **Zip Code** | 91 3PT | במשחקים קצרים: Calibrated |
+| Finishing | **Airspace** | 89 DD / 78 VRT | v2.0 החליש אותו ו-Rim Guardian עוצר אותו, אבל בודקים עדיין מתארים אותו כחזק |
+| Playmaking | **Blur** (ואחרי BH 90: ‏Cook) | 87 BH / 88 SWB | |
+| Defense | **Glue** | 85 PD | ב-STL 85 נפתח Hawk, אבל Glue עדיף אחרי שינוי החטיפות |
+| Rebounding | **Hydration Hero** (או Demolition, ‏STR 88) | – | אובדן אדרנלין מכווץ את החלון הירוק |
 
 ---
 
-## 6. ג'אמפשוט והגדרות קליעה
+## 6. ג'אמפשוט
 
 | הגדרה | ערך |
 |---|---|
-| Base | **Ray Allen** (6'5"–6'9") |
-| Release 1 | **Oscar Robertson** |
-| Release 2 | **Beluba** |
-| Blend | **42% Oscar Robertson / 58% Beluba** |
+| Base | **Stephen Curry** (עד 6'4") |
+| Release 1 / 2 | **Curry 46% / Derek Fisher 54%** |
 | Visual Cue | **Push** |
-| Timing | Release |
-| Gate | 92 3PT או MID למתכון המלא |
+| Gate | 93 3PT (יש 94) |
+| A/B | Curry base עם Oscar Robertson ‏50/50, ‏Set Point (ציון A+) |
 
-- **מדידה (2kjumpers, ‏175 זריקות):**
-  - חלון ירוק של **50ms** (555–605ms).
-  - **100% ירוק ב-580ms.**
-  - ממוצע 62% על פני כל החלון.
-  - ציונים: A- ‏/ A+ ‏/ A ‏/ B+.
-  - זה הג'אמפר הכי טוב שנמדד לגבהים 6'5"–6'9".
-- **הגיבוי ב-CUT2 (‏3PT 91):** **Quentin Grimes**, ‏Oscar Robertson 44% + Sam Hauser 56%, ‏Push.
-  - ה-gate הוא 80.
-  - חלון של 50ms שנפתח כבר ב-505ms, כלומר 50ms מוקדם יותר. אחרי v2.0 זה יתרון מול close-outs.
-- **מהגרסה הקודמת:** Ray Allen עם Beluba/Denny Vegeta ‏60/40 לא נמדד אף פעם, וגיבוי MPJ לא חוקי בגובה 6'7" (רק מ-6'10").
-- **Shot meter: כבוי.** במבחן של 1,600 זריקות זה נתן **+10%**, כולו על שחרורים מאוחרים.
-  - שימו לב: ב-Crew Divisions וב-Event Center המטר עכשיו מופעל.
-- **Release speed:**
-  - Normal מקסם את החלון: Quick מוריד 8.5% ו-Very Quick מוריד 12.1%. Slow לא נותן כלום.
-  - מול close-outs קשים אפשר Quick.
-  - כל שלב של מהירות מזיז את השחרור ב-15ms בערך, אז אחרי כל שינוי צריך לכייל מחדש ב-MyCOURT.
+- **החלון הכי רחב שנמדד ב-2K27:** 60ms, ממוצע 61%. המדידה נעשתה לפני 17.9 ולפני v2.0.
+- **ההשערה ש-46/54 הוא הווריאנט שנמדד היא הסקה, לא מדידה.**
+- **Shot meter כבוי:** +10% במעבדה.
+- **מהירות:** להשוות Very Quick מול Normal. ‏Very Quick מקטין את החלון ב-12%. לכייל ב-Crew HQ.
 
 ---
 
-## 7. כדרור ו-Pull-up
+## 7. כדרור (נבדק מול טבלאות הדרישות ב-6'3", ‏BH 87, ‏SWB 88)
 
 | סלוט | אנימציה | דרישה |
 |---|---|---|
-| Dribble Style | **Zach LaVine** | 83 SWB. ציון Koza ‏7.0, ה-Speedboost הכי טוב (8) |
-| Signature Size-Up | **James Harden** | 86 BH. הכי גבוה בדירוג (6.3) |
-| Crossover | Jordan Poole (או LaVine) | 86 BH |
-| Crossover Escape | James Harden (או Jimmy Butler) | 86 BH |
-| Behind-the-Back Escape | James Harden (או Kawhi Leonard) | 86 BH. פאץ' v2.0 תיקן את הבאג |
-| Between-the-Legs Escape | James Harden (או LaVine) | 86 BH |
-| Hesitation Escape | James Harden (או Coby White) | 86 BH |
-| Dribble Pull-up | **Pro 2** | 92 3PT/MID. בגיבוי: Kyrie Irving (90) |
+| Dribble Style | **Ja Morant** | 85 SWB. ציון Koza ‏7.5, הגבוה ביותר |
+| Size-Up | **James Harden** (או Donovan Mitchell) | 86. ב-BH 90 ‏Kyrie/Lillard, ב-BH 92 ‏Curry/Trae |
+| Crossover | Zach LaVine (או Garland) | 85 |
+| Crossover Escape | **Ja Morant** | 86. ב-BH 90 ‏Kyrie, ב-BH 92 ‏Curry |
+| Behind-the-Back Escape | Kawhi Leonard או Ja Morant | 80/86 (הבאג תוקן ב-v2.0) |
+| Between-the-Legs Escape | Chris Paul | 80. ב-BH 89 ‏Kemba |
+| Hesitation Escape | Coby White | 85 |
+| Breakdown Combo / Moving | Coby White / Ja Morant | 85 / 86 |
+| Hesitation Crossover Combo | Ja Morant או Harden | 86, ואחר כך Kemba (89), Kyrie (90), Curry/Trae (92) |
+| Stepback | Darius Garland. ‏Crossover Stepback: Ja. ‏Lateral: Jimmy Butler | |
+| Hesitation | Ja Morant. ‏Lateral: Chris Paul | |
+| Spin / Cross Spin | DeRozan / Ja Morant | |
+| Dribble Pull-up | **Stephen Curry** (93). גיבוי: Pro 2 (92) | |
+| Hop Jumper / Motion Style | Stephen Curry | |
 
-**שדרוג עם Cap Breakers:** ב-BH 88 נפתחים Kobe, וב-BH 91 נפתחים ה-escapes של SGA. את ה-size-up של Harden משאירים.
+**5 קומבינציות אחרי v2.0.** אחרי הפאץ' anklebreakers נוצרים רק מעצירה חדה או launch מהיר.
+
+| # | קומבינציה | הערה |
+|---|---|---|
+| 1 | Lateral hesitation של Chris Paul, ‏behind-the-back escape, זריקה | אחרי תיקון ה-input ב-v2.0, ה-escape נרשם תמיד |
+| 2 | Size-up של Harden, ואז launch מהיר לאותו צד | |
+| 3 | ספרינט למטה, stepback של Garland | בתנועה הצידה: lateral stepback של Butler |
+| 4 | Breakdown combo של Coby White, ביטול אחרי 2 כדרורים | ממשיכים ל-escape של Ja, ואז pull-up של Curry |
+| 5 | Hesitation crossover combo | ממשיכים ל-hesitation של Ja |
 
 ---
 
@@ -236,118 +266,142 @@
 
 | סוג | חבילה | דרישה |
 |---|---|---|
-| Contact (מהיום הראשון) | **Pro Contact Dunks Off Two** | 87 DD + 75 VRT |
-| Contact (אחרי Cap Breakers) | **Pro Contact Dunks Off One** | 89 DD + 78 VRT |
-| Signature | Obi Toppin עכשיו, ‏**Ja Morant** ב-DD 89, ‏DJJ ב-DD 90 | 87/75, ‏89/68, ‏90/75 |
-| Moving | Quick Drops Off Two, ‏Switcheroos, ‏Side Arm Tomahawks | 85/65, ‏85/65, ‏84/65 |
-| Alley-oop | **Pro Contact Alley-Oops** | 84 DD + 70 VRT |
-| Layup | Kyle Kuzma (או Default) | 70 DL |
+| Contact (יום ראשון) | **Pro Contact Off One** + Off Two + **Small Contacts Off Two** | 89/78, ‏87/75, ‏86/75 (עד 6'4") |
+| Signature | **Ja Morant** | 89/68 |
+| Alley-oop | Pro Contact Alley-Oops | 84/70 |
+| Layup | Kyle Kuzma או Default Small | DL 72 |
 
-אחרי שקונים חבילות דאנק, צריך לבחור מחדש את הסטייל המותאם לפי השם. אחרת המשחק חוזר לחבילה הראשונה שנקנתה.
+**לא אפשרי:** Elite Contacts (96/82 ו-99/90), כי תקרת ה-DD היא 90.
 
 ---
 
-## 9. איך משחקים את הבילד
+## 9. איך לשחק, ומה המטא אחרי v2.0
 
-- **התקפה:**
-  - פיק-אנד-רול מהטופ: Size-up של Harden, ואז launch של LaVine או Blur.
-  - נגד drop coverage: פול-אפים של Pro 2 ומיד-ריינג' מעמידה (Static Middy, אחרי החיזוק של v2.0).
-  - Catch-and-shoot עם Set and Fire ו-Deadeye. כש-Zip Code מתמלא, מחפשים שלשות מרחוק.
-  - Close-outs מתקיפים עם Airspace ו-Pro Contacts. מול Rim Guardian: פלואטר או מסירה החוצה.
+**מה השתנה ב-30 השעות הראשונות:**
+- **קליעה:** קלה הרבה יותר. שלשות פתוחות ו-quick-stop, מיד-ריינג' "אוטומטי", ו-Limitless ב-Gold ומעלה "חזר".
+- **Contests:** חלשים יותר.
+- **חטיפות:** 3 ניסיונות reach מרוקנים את האדרנלין.
+- **Airspace:** פחות אוטומטי.
+- **בלוקים:** עדיין חזקים.
+
+**איך לשחק:**
+- **התקפה:** עוצרים לזריקה מהירה (quick-stop) ומצלפים מכל טווח: Zip Code, ‏Mini Marksman ו-Limitless. חודרים עם Ja ו-Blur לתוך Airspace ו-Pro Contact Off One. נגד Rim Guardian: פלואטר או מסירה החוצה.
 - **הגנה:**
   - על מוביל הכדור עם Glue, ‏Seatbelt ו-Immovable.
-  - מעדיפים נתיבי מסירה (Interceptor) על פני reach.
-  - High-Flying Denier ו-Paint Patroller לחסימות chase-down ועזרה.
+  - חוטפים בנתיבי מסירה, לא ב-reach.
+  - **מתחלפים עם ביגים כשאפשר.** בגובה 6'3" אין הגנת טבעת.
 
-**חולשות ותשובות:**
+**החולשות:**
+- **גובה ב-contests:** אם 2K תחזיר את ה-contests ב-16.10, הבילד ייפגע.
+- **אין הגנת טבעת:** Block 35, ותקרה של 59.
+- **ריבאונד חלש.**
+- **ראיות:** אף אחד מ-391 הבילדים השמורים בגובה 6'2"–6'4" לא מחזיק את Zip, ‏Airspace, ‏Blur ו-Glue יחד. השילוב חדש ולא נבדק במשחק.
 
-| חולשה | תשובה |
+---
+
+## 10. אחרי ה-16.10
+
+- **Season 2:** מתחיל ב-16.10, ובאותו יום פאץ' v2.0 מגיע ל-PC ול-Switch 2.
+- **פיצ'ר חדש בבילדר:** הוכרז ל-Season 2, ואולי הוא כולל respec.
+- **סיכון:** אם הקליעה תוחזר אחורה, ערך הגובה עולה. במקרה כזה עדיף ה-6'7".
+- **עד אז:** לא לשרוף Cap Breakers על החלטות שתלויות רק במטא.
+
+---
+
+## 11. חלופה ראשית: 6'7" Zip-Air Tall PG (נבדק חי)
+
+[פתיחה בבילדר](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYgxDoAwDAP_0hlHSUvq9AWs7IiJtWLj_7RISNZZd0faN2ETa3keFTQEUYi1Ihwtg2OKGFpQdUZylqJw_9VAlyst99P7h_MF): ‏PG, ‏6'7", ‏192 lbs, מוטה 6'7". נבדק בבילדר החי ב-8.10 והציג 98.
+
+**מתי לבחור בו:** גובה ו-contests בהגנה, HFD ו-Paint Patroller (ה-Block מגיע ל-70), או אם הקליעה תוחזר אחורה ב-Season 2.
+
+| | |
 |---|---|
-| DL 71, כלומר חבילות לייאפ חלשות | מסיימים בדאנק, פלואטר או Physical Finisher |
-| Block 70 לא עוצר slashers עם 96–99 DD | מחליפים שומר לביג. HFD רק ל-chase-downs |
-| Pass 70: יותר סקורר ממוסר | Dimer ומסירות מהירות לקלעים |
-| Steal 77 | לא עושים reach בלי אדרנלין. Hydration Hero |
-| Zip Code מתמלא לאט | Calibrated במשחקים קצרים |
-| Ray Allen משחרר מאוחר | גיבוי Quentin Grimes או מהירות Quick |
+| **Shooting** | 3PT 92 (תקרה) · Mid 85 · FT 72 |
+| **Finishing** | DD 87 · VRT 75 · DL 71 · Close 70 · SD 37 · PC 46 |
+| **Playmaking** | BH 86 · SWB 83 (תקרה) · Pass 70 |
+| **Defense** | PD 85 · Steal 77 · Block 70 (תקרה) · Interior 60 |
+| **Rebounding / Athletic** | OREB 30 · DREB 55 · Speed 85 · Agility 77 · Strength 71 |
+
+- **Takeovers:** ‏Zip Code, ‏Airspace, ‏Blur, ‏Glue, ‏Hydration Hero.
+- **ג'אמפר:** ‏Ray Allen, ‏Oscar Robertson 42% / Beluba 58%, ‏Push. ‏50ms, ‏gate 92.
+- **באדג'ים:**
+  - Deadeye Gold, ‏Set and Fire Gold, ‏Static Middy Gold, ‏Limitless Range Bronze (Silver לא טוב יותר).
+  - Posterizer Silver, ‏Float Game.
+  - Seatbelt Silver, ‏Interceptor Silver, ‏HFD ו-Paint Patroller.
+  - Slippery Gold, ‏Bruiser.
+  - Handles for Days, ‏Lightning Launch ו-Pace ב-Bronze.
+  - **הערה:** סט של 20 באדג'ים מלאים דורש טוקנים נוספים, כי הבסיס מספק פחות.
+- **כדרור (מתוקן):**
+  - נשארים: סגנון LaVine, ‏size-up של Harden, ‏crossover של LaVine.
+  - Escapes: ‏Paul George (crossover), ‏Kawhi (behind-the-back), ‏Coby White (hesitation), ‏KD (between-the-legs).
+  - שאר הסלוטים: Coby White breakdown, ‏LeBron hesitation, ‏Chris Paul lateral, ‏Tatum stepback, ‏KD crossover stepback, ‏Butler lateral stepback, ‏DeRozan spin, ‏Poole in-and-out.
+  - שדרוגים: ב-BH 88 נפתח Kobe, וב-BH 91 נפתח SGA.
+- **מילוי ל-99:**
+  - [F0](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_PYgxDoAwDAP_0hlXTaPUyQtY2RETa8XG_yEMSCeffHvZ1sqoEj3FBgqcUGIo3BAdfGnwAVcMy0hmsYD9V0CrZ1mue85vjgc): ‏PC 63, ‏ID 65, ‏OREB 59 (כמעט בחינם, מודל 98.41).
+  - אחר כך AGI 78, ‏STR 75, ‏VRT 78, אחד-אחד, עד ה-99 הראשון.
+  - קישורים שהמודל שם מעל 98.43 עלולים להידחות.
+- **Cap Breakers:** ‏DD ×3 (עד 90), ‏BH ×5 (עד 91), ‏MID ×2 (Spec), ‏VRT ×2, ‏AGI ×4, ‏SPD ×2, ‏PD ×2.
+- **גרסת "בסיס נמוך" (A64):**
+  - **[A64](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HUs5DsAgDPsLcx1xJYYXdGWvOnVF3fr_BiTLl-wrjFPYJfW8hBFMsIoSUQ1N0TPoiGgeC8wNV--Nb1R3zOtFlScc7zfnpvsH):** ‏DD 64, ‏PD 87, ‏STL 85, ‏AGI 82, ‏SPD 87 (מודל 98.34).
+  - **מתי:** אם כבר יש לך 5 Cap Breakers ומעלה.
+  - **ביום הראשון:** Hawk, ‏Glove Silver, ‏Pick Dodger Silver ו-Flash Gold.
+  - **המחיר:** Airspace מגיע רק ב-Cap Breaker הרביעי או החמישי, ויש 2–3 טוקני Finishing פחות.
 
 ---
 
-## 10. חלופות
+## 12. חלופות נוספות
 
-| בילד | פריים | מתי לבחור |
-|---|---|---|
-| [6'5" Zip-Air Slasher](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_i1YKdtczN9czMjLSszDQMzfQtTDVtbDUNTbVNYGxgYIgcQsQMoMIGuuaGuiamOlC1RuCSQO9ZCWdvNKcHDARCwA) | SG, ‏6'5", ‏222 lbs, מוטה 6'8". ‏3PT 89 (תקרה 93), ‏DD 89, ‏BH 88, ‏SWB 88, ‏STR 85 | רוצים Pro Contact Off One כבר מההתחלה, Gold ב-Pace ו-LL, סגנון SGA ו-Strength גבוה. המחיר: 2" פחות ל-contest, בלי HFD ו-Paint Patroller, ו-Zip Code רק אחרי Cap Breakers. **התקציב לא נבדק בבילדר החי** |
-| [6'7" Lockdown PG](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_i1YKcNczt9QztDQCUeZGuuaGumZGusbGuiZmuhamupZAESAy0LUAco11zSAMU5CIkSlYjbmuBViXualespJOXmlODpiIBQA) | אותו פריים. ‏STL 85, ‏PD 86, ‏SPD 87, ‏AGI 82, ‏DD 62 | כבר יש לכם 5+ Cap Breakers פנויים. מקבלים Hawk, ‏Glove Silver ו-Flash Gold, ו-DD עולה ל-87 דרך Cap Breakers. ביום הראשון אין Airspace |
-| [6'5" Two-Way Slasher](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_i1YKdtczN9czMjLRszDSMzfQtTDVtbDUNTbVNYGxgYIgcQsQMoMIgkVMzHSh6g0hgnrJSjp5pTk5YCIWAA) | SG, ‏6'5", ‏224 lbs, מוטה 6'10". ‏DD עד 99, ‏BLK 70 | REC או Pro-Am שבו הסיומת באה קודם (Elite Contacts). אין Zip Code, ובמקומו Shot Artist |
-
----
-
-## 11. צ'קליסט במשחק
-
-1. לפתוח את [לינק הבילד](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_NYgxDoAwDAP_0hlHSUvq9AWs7IiJtWLj_7RISNZZd0faN2ETa3keFTQEUYi1Ihwtg2OKGFpQdUZylqJw_9VAlyst99P7h_MF) ולוודא שהבילד נטען בלי שינויים.
-2. בבילדר של 2K: ‏PG, ‏6'7", ‏192 lbs, מוטה 6'7". להזין את הערכים מסעיף 2. אם הבילדר מסרב, CUT1 ואחריו CUT2.
-3. לנסות FILL1, ‏FILL2 ו-FILL3 אחד-אחד, עד שמגיעים ל-99. אז נפתח הפריוויו של ה-Cap Breakers.
-4. בפריוויו: לבדוק שכל breaker נותן +1 ל-DD ול-BH, ולבדוק אם Physicals מקבל breakers בכלל.
-5. במסך הבאדג'ים לוודא את הספים השנויים במחלוקת:
-   - Seatbelt Silver ב-85/77
-   - Paint Patroller ב-60/70
-   - Immovable Enforcer ב-62/71
-   - Sync Snatcher ב-55
-6. לבחור Shooting Build Specialization.
-7. ב-Jumpshot Creator: ‏Ray Allen עם Oscar Robertson 42% ו-Beluba 58%, ‏Push. לכבות את המטר ולמצוא את נקודת הירוק ב-MyCOURT. לבדוק גם את הגיבוי.
-8. לצייד את ה-Takeovers לפי שהם נפתחים (MyCAREER ← Progression ← Takeover).
-9. לאסוף את ה-slots והטוקנים של Season 1 **לפני 16.10**.
-10. אחרי הפאץ' של Season 2 (‏16.10; ב-PC וב-Switch 2 פאץ' v2.0 מגיע ביום הזה) להריץ שוב את הסקיל `nba2k27-build-planner`.
+| בילד | פריים | ערכים מרכזיים | מתי לבחור |
+|---|---|---|---|
+| [6'4" Two-Way (E4t)](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_HYs5DoAwDAT_kpq1cBxfL6ClR1S0ER3_J0kz0ox2r3Ie5EaVG3lQ7HBGJEQhhlBkgyVsxKEB0xlD5qA6tC7lyXF_yvZ-vS_cPw) | PG, ‏6'4", ‏214 lbs, מוטה 6'6" | 3PT 94, ‏DD 89, ‏BH 86, ‏SWB 88, ‏STL 83, ‏STR 85, ‏VRT 78 | **הכי יציב** מול אי-ודאות לגבי ערך הגובה. מודל 98.00, אבל בילד שמור באותו פריים נקרא 0.7 נמוך. **לא נבדק חי** |
+| [6'3" BH92 Dribble-Max](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_LYoxDoAwDAP_0hlHJWnq9gWs7IiJtWLj_6SI5WyffKR9E7roajOYQaIRZrAojl5ARfiuaBXFp4yPOWpGLf9k0OVKy_2M8eF8AQ) | אותו פריים | BH 92 כבר בבסיס: Curry/Trae מהיום הראשון | כדרור לפני הכל. חלש יותר בדו-כיווני |
+| [PF 6'9" Zip-Air Stretch Four](https://www.lockercodes.io/nba-2k/myplayer-builder?b=z2j_JYgxDoAwDAP_0hlHbSGJ-QBzd8TEWrHxfxoqWfb5ztQOYZFaGOOEOejQis1AxV7gGVzhCtMwIzZMDsMJPq_caXne3v-6Pg) | ‏PF (או SF), ‏6'9", ‏218 lbs, מוטה 6'9" | 3PT 91, ‏BLK 80, ‏ID 85, ‏PASS 83 | 5v5 מאורגן: Rim Guardian נגד Airspace. **לא נבדק חי** |
 
 ---
 
-## 12. מה תוקן לעומת הגרסה הקודמת
+## 13. צ'קליסט במשחק
 
-- **הבילד הקודם חרג מהתקציב** (הערכה: 100.2 OVR). הבילדר החי דחה אותו, וגם חמש גרסאות זולות יותר שלו.
-- **תוכנית ה-Cap Breakers הקודמת לא הייתה אפשרית.** היא כוונה ל-3PT 95, ‏BH 93, ‏PD 92 ו-SWB 88, אבל התקרות הן 92, ‏91, ‏87 ו-83.
-- **הטירים הקודמים לא היו אפשריים בגובה 6'7".** אין Gold ב-Limitless, ‏Ankle Assassin, ‏Lightning Launch, ‏Pace, ‏Seatbelt, ‏Challenger ו-Pick Dodger.
-- **סך הטוקנים הקודם חרג מהמקסימום:** ‏Shooting ‏27 מתוך 23, ‏Defense ‏23 מתוך 22.
-- **הג'אמפר הוחלף** מגרסה שלא נמדדה לגרסה שנמדדה, וגיבוי MPJ (לא חוקי בגובה הזה) הוחלף ב-Quentin Grimes. הדרישה ל-A/A+ בוטלה.
-- **Navigator הוחלף ב-Airspace.** גם Navigator כוונן בפאץ' v2.0, והוא לא בר-השגה בתקציב.
-- **התווספו:** ‏Block 70 ו-ID 60 (‏HFD ו-Paint Patroller), ‏Strength 71 (‏Bruiser ו-Immovable) ו-Mid-Range 85 (אחרי חיזוק המיד-ריינג').
-- **פאץ' v2.0 אושר ברשמי:** בדף של 2K, בפוסט של u/NBA2K ב-Reddit ובחדשות Steam.
+1. **בבילדר של 2K:** ‏PG, ‏6'3", ‏213 lbs, מוטה 6'3". להזין את סעיף 2. אם נדחה: CUT1, ‏CUT2.
+2. **למלא ל-99** לפי F1–F7, ולעצור ב-99 הראשון.
+3. **בפריוויו של ה-Cap Breakers:** לוודא +1 על BH ועל 3PT, ולבדוק אם Physicals מקבל.
+4. **במסך הבאדג'ים:**
+   - לקרוא את Tokens/Slots לכל דיסציפלינה.
+   - לוודא את Ankle Assassin Gold (הבילדר אמר כן, בטבלאות 93), את Mini Marksman ואת Seatbelt.
+5. **Build Specialization:** ‏Shooting.
+6. **ג'אמפר:**
+   - Curry 46/54, ‏Push.
+   - A/B מול Curry עם Oscar Robertson ‏50/50.
+   - מטר כבוי.
+   - כיול ב-Crew HQ.
+7. **אנימציות:** סגנון Ja, ‏Harden, ‏Ja escapes, ‏Curry pull-up, ‏Pro Contact Off One, ‏Ja Sig.
+8. **Season 1:** להשיג את ה-Cap Breaker של רמה 40, ‏slots וטוקנים **לפני 16.10**.
+9. **אחרי 16.10:** להריץ שוב את הסקיל `nba2k27-build-planner`. אם הקליעה הוחזרה, לשקול לעבור ל-6'7".
 
-## 13. הסתייגויות
+---
 
-- **מודל התקציב הוא מודל מותאם (sd בערך 0.75 OVR), לא הנוסחה המדויקת של 2K.** הבילד הבסיסי נבדק בבילדר של lockercodes (98), אבל לא בבילדר של 2K עצמו. בשביל זה יש את סולם ההורדות.
-- **כל מדידות הג'אמפרים והמטר נעשו לפני 17.9 ולפני v2.0.** צריך לכייל מחדש ב-MyCOURT.
-- **Zip Code, ‏Pro 2, ה-escapes והלייאפים נבחרו לפי ספים או המלצות יוצרים, ולא נמדדו במעבדה.** על הבילדים שפורסמו אחרי v2.0 עוד אין בדיקות מעבדה.
-- **כמה ספים נשענים על מקור אחד** (Paint Patroller, ‏Seatbelt Silver לפי Destructoid) וצריך לוודא אותם במשחק.
-- **ההתרשמות הראשונה של הקהילה מ-v2.0:** הקליעה קלה הרבה יותר, ‏Limitless נמצא בכ-75% מהעוצמה שהייתה בהשקה, ו-Airspace "עדיין המלך". זה בן כמה שעות, וזה עשוי להשתנות.
+## 14. הסתייגויות
+
+- **ההכרעה בין 6'3" ל-6'7" נשענת על מודל ערך** (משקלות של באדג'ים, אנימציות וגובה). המודל שקוף, והוא נבדק ב-72 תרחישים, אבל הוא לא מדידה במשחק. ערך הגובה הוא הפרמטר הכי חלש בו.
+- **מודל התקציב:** ב-6'3" הוא לא מכויל חי, אבל הבילד הספציפי נטען בבילדר החי ב-98.
+- **מדידות הג'אמפרים** (Curry ‏60ms, ‏Ray Allen ‏50ms) נעשו לפני 17.9 ולפני v2.0.
+- **Mini Marksman, ‏Zip Code אחרי v2.0, ‏Rim Guardian מול Airspace ו-Demolition** לא נבדקו במעבדה.
+- **המטא אחרי v2.0 בן 30 שעות**, וכל המספרים בו אנקדוטליים.
+- **היצע הטוקנים** הוא הערכה. צריך לקרוא אותו בבילדר.
 
 ## מקורות
 
-- [Patch Updates – NBA 2K27 (רשמי, כולל v2.0)](https://nba.2k.com/2k27/patch-updates/)
+- [Patch Updates – NBA 2K27 (רשמי, v2.0)](https://nba.2k.com/2k27/patch-updates/)
 - [MyPLAYER Builder – NBA 2K27 (רשמי)](https://nba.2k.com/2k27/features/myplayer-builder/)
-- [Gameplay – NBA 2K27 (רשמי)](https://nba.2k.com/2k27/features/gameplay/)
-- [Patch Notes v2.0 – u/NBA2K ב-Reddit](https://www.reddit.com/r/NBA2k/comments/1x0jc55/news_nba_2k27_patch_notes_v20_learn_whats_new_in/)
+- [Patch Notes v2.0 – u/NBA2K](https://www.reddit.com/r/NBA2k/comments/1x0jc55/news_nba_2k27_patch_notes_v20_learn_whats_new_in/)
+- [Splash – Patch thoughts (Reddit)](https://www.reddit.com/r/NBA2k/comments/1x0pejj/patch_thoughts_from_one_of_the_best_players_in/)
 - [NBA2KLab – Mike Wang FAQs](https://www.nba2klab.com/mike-wang-faqs)
-- [NBA2KLab – Signature Blueprints (תקרות)](https://www.nba2klab.com/signature-blueprints)
 - [NBA2KLab – Badge Max Level by Height](https://www.nba2klab.com/badge-max-level-by-height)
-- [NBA2KLab – Badge Tokens](https://www.nba2klab.com/badge-tokens)
+- [NBA2KLab – v2.0 Patch Notes](https://www.nba2klab.com/nba2k-patch-notes/patch-notes-nba-2k27-v-2-0)
 - [NBA2KLab – Takeover Requirements](https://www.nba2klab.com/takeover-requirements)
-- [NBA2KLab – Shot Meter Test](https://www.nba2klab.com/shot-meter-test)
-- [NBA2KLab – Release Speed Test](https://www.nba2klab.com/release-speed-test)
-- [NBA2KLab – Speed and Agility](https://www.nba2klab.com/speed-and-agility)
 - [NBA2KLab – Dribble Styles Explained](https://www.nba2klab.com/dribble-styles-explained)
-- [NBA2KLab – 6'7" Do-It-All Build](https://www.nba2klab.com/videos/2k27-do-it-all-build)
-- [lockercodes – MyPLAYER Builder](https://www.lockercodes.io/nba-2k/myplayer-builder)
-- [lockercodes – Badges](https://www.lockercodes.io/nba-2k/badges)
-- [lockercodes – Takeover](https://www.lockercodes.io/nba-2k/takeover)
-- [lockercodes – Cap Breakers](https://www.lockercodes.io/nba-2k/cap-breakers)
-- [lockercodes – Contact Dunks](https://www.lockercodes.io/nba-2k/animation-requirements/all-dunks/contact-dunks)
-- [lockercodes – Jumpshot Bases](https://www.lockercodes.io/nba-2k/animation-requirements/jumpshots)
-- [2kjumpers – Ray Allen / Oscar Robertson / Beluba](https://2kjumpers.com/jumpers/ray-allen-oscar-robertson-beluba)
+- [NBA2KLab – Shot Meter Test](https://www.nba2klab.com/shot-meter-test) · [Release Speed Test](https://www.nba2klab.com/release-speed-test)
+- [lockercodes – MyPLAYER Builder](https://www.lockercodes.io/nba-2k/myplayer-builder) · [Badges](https://www.lockercodes.io/nba-2k/badges) · [Cap Breakers](https://www.lockercodes.io/nba-2k/cap-breakers)
 - [2kjumpers – Jumpshots by height](https://2kjumpers.com/jumpshots)
-- [YaadManGaming – 6'7" PG Build (5.10)](https://www.youtube.com/watch?v=LjRZBwoWnEg)
-- [YaadManGaming – first REC games on v2.0](https://www.youtube.com/watch?v=Engj-8Xb4C0)
-- [SiimplyGrinding – Demigod Build (19.9)](https://www.youtube.com/watch?v=wA39tbWkGtM)
-- [Chad Benz – Jumpshots after ~2,000 games (7.10)](https://www.youtube.com/watch?v=EcIUVt6gGPw)
+- [YaadManGaming – 6'7" PG](https://www.youtube.com/watch?v=LjRZBwoWnEg) · [first REC games on v2.0](https://www.youtube.com/watch?v=Engj-8Xb4C0)
 - [Joe Knows – 99 Block test](https://www.youtube.com/watch?v=Wz_p8U8z4LI)
-- [HankDaTank – 99 Dunk + 99 Steal Guard](https://www.youtube.com/watch?v=9Ua6GjP97OY)
-- [games.gg – Best PG Builds](https://games.gg/nba-2k27/guides/nba-2k27-best-point-guard-builds/)
+- [Chad Benz – Jumpshots (7.10)](https://www.youtube.com/watch?v=EcIUVt6gGPw)

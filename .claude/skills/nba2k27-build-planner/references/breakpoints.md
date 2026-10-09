@@ -43,10 +43,35 @@ alternative noted. Caps and budget readings come from the live lockercodes build
 - Linked floors the live builder enforces at 6'7" (auto-raise): CS ≥ DL−10 and ≥ MID−15,
   DL ≥ BH−15, PC ≥ BH−40, SD ≥ DD−50, ID ≥ STL−35 and ≥ PD−44, FT ≥ 3PT−20, OREB ≥ DREB−25,
   SPD ≥ SWB−4, DREB ≥ PD−40, PASS ≥ BH−25.
+- Live reading (PG 6'3" 213/6'3", 2026-10-09): `CS80 DL72 DD89 SD35 PC32 MID85 3PT94 FT69 PASS62 BH87
+  SWB88 ID59 PD85 STL83 BLK35 OREB35 DREB60 SPD87 AGI81 STR89 VRT78` → 98, room ~1 (loaded unchanged).
 - Live readings (PG 6'7" 192/6'7"): repo build `CS70 DL71 DD87 SD37 PC46 MID85 3PT92 FT72 PASS70
   BH86 SWB83 ID60 PD85 STL77 BLK70 OREB30 DREB55 SPD85 AGI77 STR71 VRT75` → 98 (loaded unchanged).
   The 2026-10-08 first draft (3PT92 DD89 PD86 DL85 PASS80 …) was rejected, as were 3PT 88/90 + DD 85
   variants; 3PT 87 + DD 85 loaded at 98.
+
+## Cap breaker rules and exploits (researched 2026-10-09)
+
+- Official: max 5 per attribute, permanent, no respec, never above the body cap. Build Spec goal-9
+  CBs go only to that discipline or FT (not Physicals, unlike 2K26). General CBs on Physicals are
+  very likely allowed (the Physicals track pays Physicals CBs; lockercodes models them).
+- Eligibility (badges, takeovers, animations) uses CB-raised ratings; tokens and slots use BASE
+  ratings. The CB screen reportedly needs the build at 99 OVR (unconfirmed) → always plan a fill-to-99.
+- 2K: a CB adds +1 to your highest ratings and more to low ones, so ladders depend on the whole build.
+  PG 6'7" is the least CB-generous guard frame (+1 on 3PT/BH/SWB/PD/STL/SPD/AGI); low-base Driving Dunk
+  (61-64 → 89-90 with 5 CBs) is the one big legal win there. At 6'3" it is not worth it.
+- Exploits: crew kick/re-level CB duplication (breaks "crew CBs earned once" — ban/rollback risk);
+  account sharing / paid grinding, scripts, VC/account trading (ban waves). Never put these in a build.
+- Season 1 level-40 CB must be earned before 2026-10-16 (catch-up CBs only for unplayed seasons).
+
+## Model notes
+
+- Every one of 3,591 saved builds satisfies MID ≥ 3PT − 10 (all heights); the evaluator does not
+  enforce it at 6'2"/6'3"/6'7" — apply it by hand.
+- Out of sample (31 saved pages with OVR) the evaluator reads low by 0.47 on average, worst −2.05
+  at 6'5" and long wingspans; ≈ −0.1 at 6'3"; 6'7" is calibrated.
+- Frame choice is sensitive to how much height is worth in contests (no lab test after v2.0).
+  Always report the break-even height value and a regret table across weightings.
 
 ## Frame caps (live lockercodes builder)
 
@@ -57,6 +82,7 @@ alternative noted. Caps and budget readings come from the live lockercodes build
 | PG 6'7" 200 / 6'7" | 92 | 98 | 92 | 90 | 91 | 82 | 99 | 88 | 88 | 70 | 90 | 88 | 86 | 98 |
 | PG 6'7" 180 / 6'8" | 90 | 96 | 94 | 92 | 91 | 83 | – | 89 | 91 | 73 | 91 | 91 | 75 | 99 |
 | PG 6'7" 180 / 6'10" | 87 | 93 | 99 | 96 | 91 | 83 | – | 93 | 95 | 79 | 91 | 91 | 73 | 99 |
+| PG 6'3" 213 / 6'3" | 99 | – | – | 90 | 97 | 91 | – | – | – | 59 | – | – | 89 | – |
 | PG 6'4" 175 / 6'4" | 99 | 99 | 92 | 90 | 96 | 91 | – | 87 | 92 | – | 99 | 99 | 60 | 99 |
 | SG 6'5" 183 / 6'5" | 99 | 99 | 92 | 90 | 95 | 89 | – | 88 | 92 | – | 97 | 96 | 70 | 99 |
 | SG 6'5" 222 / 6'8" | 93 | – | – | 95 | 95 | 88 | – | – | – | 67 | – | – | 89 | – |
