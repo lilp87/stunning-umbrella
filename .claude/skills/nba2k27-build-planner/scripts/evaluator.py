@@ -62,6 +62,9 @@ PARAMS = load_json('model_params.json')
 KN = PARAMS['knots']
 RULES = load_json('rules_by_height.json', {})
 CAPS = load_json('caps.json', {'caps': {}, 'source': {}})
+# [driver, follower, k, support]: follower >= driver + k holds in every one of 3,591 saved 99 builds.
+# A shared link that breaks one is refused by the live builder (seen live: FT >= MID-25).
+GLOBAL_RULES = load_json('global_rules.json', [])
 
 
 def conv(r):
@@ -155,6 +158,8 @@ def evaluate(build):
     caps, capsrc = lookup_caps(ht, wt, ws)
     over_cap = [f"{FULL[a]} {raw[a]} > cap {caps[a]}" for a in O if caps and a in caps and raw[a] > caps[a]]
     norm, changes, conflicts = normalize(raw, ht, caps)
+    rule_violations = [f"{FULL[f]} {norm[f]} < {FULL[dr]} {norm[dr]}{k:+d}" for dr, f, k, n in GLOBAL_RULES
+                       if norm[f] < norm[dr] + k]
     u = u_of(norm, d)
     sig = CV_SD.get(ht, 0.7)
     margin = 99.0 - u
@@ -172,6 +177,7 @@ def evaluate(build):
            'model_sd_ovr': sig, 'caps_source': capsrc, 'over_cap': over_cap,
            'linked_changes': [{'attr': FULL[a], 'from': x, 'to': y, 'rule': r} for a, x, y, r in changes],
            'linked_cap_conflicts': conflicts,
+           'global_rule_violations': rule_violations,
            'normalized_attrs': {FULL[a]: norm[a] for a in O},
            'uncapped_ovr_est': round(u, 2), 'margin_to_99': round(margin, 2),
            'exceeds_99': u > 99.0, 'verdict': verdict,
@@ -223,6 +229,9 @@ def report(o):
             L.append(f"  {c['attr']}: {c['from']} -> {c['to']}   [{c['rule']}]")
     if o['linked_cap_conflicts']:
         L.append('  !! ' + '; '.join(o['linked_cap_conflicts']))
+    if o.get('global_rule_violations'):
+        L.append('  !! BREAKS A BUILDER RULE (shared link will be refused; raise the first attribute): '
+                 + '; '.join(o['global_rule_violations']))
     L.append(f"Estimated uncapped Overall Potential: {o['uncapped_ovr_est']:.2f}   (limit 99.00; margin {o['margin_to_99']:+.2f})")
     L.append(f"Builder would show: {o['builder_display_est']}   exceeds 99: {o['exceeds_99']}")
     L.append(f"Verdict: {o['verdict']}")
